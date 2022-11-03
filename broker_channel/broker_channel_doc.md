@@ -50,7 +50,7 @@ The given classes, written in Java:
 - Un objet Channel est associé à chaque tâche, soit deux instances Channel au total. 
 - Les deux instances de la classe Channel se partagent deux buffers croisés correspondant à des instances de la classe CircularBuffer
 
-![Diagramme d'objets](resources/object_diagramm.png)
+![Diagramme d'objets](object_diagramm.png)
 *Fig : Diagramme d'objets*
 
 
